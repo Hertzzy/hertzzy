@@ -29,8 +29,15 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/helterxavier/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Hertzbx)
 
+![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=Hertzzy&show_icons=true&theme=gotham)
 
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=hertzzy_icons=true&theme=gotham)
+
+## Portfolio:
+- [Python - Exploratory data analysis](https://github.com/VariableBee/EDA_Loggi)
+- [Google Data Studio - COVID-19 Interactive Dashboard](https://github.com/VariableBee/COVID_19_DASHBOARD)
+- [SQL - Querying and analyzing data with AWS Athena](https://github.com/VariableBee/AWS_Athena_Queries)
+- [C - Registration and query system](https://github.com/VariableBee/Cartorio)
+
 ###
 
 
