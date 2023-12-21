@@ -19,9 +19,9 @@
   <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I am 26 years old, currently living in Brazil. I have fluency in English and have experience with SQL, Python, Data Analysis, Data visualization, and Machine Learning. I'm also a content creator on YouTube since 2018, which helped me develop important skills such as creativity, communication, marketing, analytical capability, community and social media management.
+  - 💬 I am 25 years old, currently living in Limeira, São Paulo, Brazil. I have experience with SQL, JavaScript, Node, React and Laravel PHP. I am currently doing an internship at my city hall with a Full Stack developer. I also developed important skills such as creativity, communication, analytical skills, logical reasoning.
 
-  - ⚡ I enjoy reading, whether it's a good book, manga, or comics, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
+  - ⚡ I enjoy reading a good bookas watching movies and playing games in free time! \o/
 </details>
 ###
 
