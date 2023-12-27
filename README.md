@@ -14,14 +14,14 @@
   
   - 📚 I'm currently studying Software Engineering at Uninter University.<br>
   
-  - 🎯 I'm looking for a job as a Intership or Junior Developer. <br>🧑‍💻 More about me</p>
+  - 🎯 I'm looking for a job as a internship or Junior Developer. <br>🧑‍💻 More about me</p>
   
   <details>
   <summary>👨‍💻 More about me</summary>
 
   - 💬 I am 25 years old, currently living in Limeira, São Paulo, Brazil. I have experience with SQL, JavaScript, Node, React and Laravel PHP. I am currently doing an internship at my city hall with a Full Stack developer. I also developed important skills such as creativity, communication, analytical skills, logical reasoning.
 
-  - ⚡ I enjoy reading a good bookas watching movies and playing games in free time! \o/
+  - ⚡ I enjoy reading a good books watching movies and playing games in free time! \o/
 </details>
 
 
